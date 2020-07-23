@@ -1,23 +1,17 @@
 
  
 
-var nombre= prompt ( 'qual es tu nombre ');
+var nombre= prompt ( 'qual es tu nombre do curso ');
 
- //var idade= prompt ('idade');
-var sobrenome= prompt ('sobrenome');
+ 
 
-if (nombre=='oriana' &  sobrenome=="millan"){
-    alert( 'oriana'  + 'millan ' + 'puedes' + 'continuar');
-        document.write('te quiero prima, nunaca lo olvides!! ');
+if (nombre=='totti'){
+    alert( 'podem continuar');
+        document.write('estou estudando muitoooo!!!! ');
 }
  else{
-     alert("NOMBRE O PERSONA INCORRECTA: ALERTA DE VIRUS ")
+     alert("VOCÊ NÃO PERTENCE AO CURSO  ALERTA DE VIRUS ")
        
  }
  
 
- //document.write= '(nombre + idade + sobrenome)';
-
-//alert('nombre' + 'idade');
-//var amigos =['maria','pedro','jose'];
-//console.log(amigos[1])
