@@ -6,12 +6,15 @@ var nombre= prompt ( 'qual es tu nombre ');
  //var idade= prompt ('idade');
 var sobrenome= prompt ('sobrenome');
 
-if (nombre=='maria' & sobrenome=="moreno"){
-    alert( 'maria'  + 'moreno ' + 'puedes' + 'continuar');
+if (nombre=='oriana' &  sobrenome=="millan"){
+    alert( 'oriana'  + 'millan ' + 'puedes' + 'continuar');
+        document.write('te quiero prima, nunaca lo olvides!! ');
 }
  else{
-     alert("persona incorreta")
+     alert("NOMBRE O PERSONA INCORRECTA: ALERTA DE VIRUS ")
+       
  }
+ 
 
  //document.write= '(nombre + idade + sobrenome)';
 
