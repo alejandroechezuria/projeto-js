@@ -10,6 +10,8 @@ if(idade>=18 && idade <= 35) {
 
 } else if ( idade >35 && idade <= 44 ){
 document.write (nome+'tiene' + idade+ 'anos esta em a  , crisis dos 40')
+}else if(idade>44 && idade<=55){
+document.write(nome +'tiene'+idade +'anos, voce esta um pouco maior de idade')
 }
 
 else {
