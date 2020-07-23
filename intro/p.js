@@ -5,7 +5,7 @@ var nombre= prompt ( 'qual es tu nombre do curso ');
 
  
 
-if (nombre=='totti'){
+if (nombre==' da totti'){
     alert( 'podem continuar');
         document.write('estou estudando muitoooo!!!! ');
 }
