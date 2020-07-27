@@ -1,7 +1,7 @@
 var idade;
 var nome;
 nome=prompt('qual e seu nome ');
-idade=prompt('qual e sua idade');
+idade=Number (prompt('qual e sua idade'));
 
 
 if(idade>=18 && idade <= 35) {
